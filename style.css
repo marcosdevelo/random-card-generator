@@ -1,0 +1,30 @@
+body{
+        background: green;}
+.card{
+        background: white;
+        width: 403px;
+        height: 500px;
+        margin: auto;
+        border-radius: 20px;
+        position: relative;
+        text-align: center;
+    }
+.top-suit{position:absolute;
+        top: 20px;
+        left:20px;
+    font-size: 100px;
+}
+.bottom-suit{position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 100px;
+
+}
+.number{position: absolute;
+    font-size: 176px;
+    bottom: 160px;
+    left: 168px;
+
+
+}
+
