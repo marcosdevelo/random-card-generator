@@ -20,11 +20,13 @@ body{
     font-size: 100px;
 
 }
-.number{position: absolute;
+.number{position: relative;
     font-size: 176px;
-    bottom: 160px;
-    left: 168px;
+    bottom: -129px;
+
 
 
 }
-
+.red{
+    color: red;
+    }
